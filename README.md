@@ -1,2 +1,2 @@
-# flowbile
-FLOWBILE: Kleinteilige Publikumsforschung im sächsischen Personennahverkehr
+# FLOWBILE
+Kleinteilige Publikumsforschung im sächsischen Personennahverkehr
