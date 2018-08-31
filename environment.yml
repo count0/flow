@@ -10,6 +10,7 @@ dependencies:
   - gtk3
   - pygobject
   - matplotlib
+  - scikit-learn
   - numpy
   - pandas
   - graph-tool
