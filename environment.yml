@@ -1,0 +1,9 @@
+name: blockmodel-environment
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - graph_tool
