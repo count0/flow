@@ -1,6 +1,8 @@
 name: blockmodel-environment
 channels:
-  - conda-forge
+  - ostrokach-forge
+  - defaults
+  - conda-forge 
   - anaconda
 dependencies:
   - python
